@@ -1,0 +1,41 @@
+name: forgot_app
+description: A new Flutter application.
+
+
+publish_to:
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/aa1.png
+    - images/aa2.png
+    - images/aa3.png
+    - images/google.png
+    - images/facebook.png
+    - images/Lock.png
+    - images/email.png
+
+
+
+
+
+
